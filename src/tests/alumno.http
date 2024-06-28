@@ -6,7 +6,7 @@ Content-Type: application/json
 
 {
 
-    "nombre": "Kiko",
-    "apellido": "Ledgard",
-    "edad": 20
+    "nombre": "Gustavo",
+    "apellido": "Sanchez",
+    "edad": 10
 }

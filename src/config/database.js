@@ -1,8 +1,8 @@
 import Sequelize from 'sequelize'
 
-const hostname = '127.0.0.1'
+const hostname = 'jcromaina-db-postresql-2024-1.postgres.database.azure.com'
 const username = 'postgres'
-const password = 'friends'
+const password = 'password123.'
 const database = 'matricula2024'
 const dbPort = 5432
 const dialect = 'postgres'

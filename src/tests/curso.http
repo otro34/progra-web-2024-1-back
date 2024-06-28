@@ -6,8 +6,8 @@ Content-Type: application/json
 
 {
 
-    "name": "Programacion Web",
-    "nivel": 4,
+    "name": "Gestión de Proyectos de Software",
+    "nivel": 9,
     "carrera": "Ing. Sistemas"
 }
 
